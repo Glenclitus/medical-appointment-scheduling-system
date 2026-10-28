@@ -1,0 +1,16 @@
+department_id,full_name,specialization,phone,email,available_days,consultation_fee
+1,Dr. Asha Rao,Cardiology,9200000001,demo.asha.doctor@example.com,Mon-Wed-Fri,900.00
+1,Dr. Dev Menon,Cardiology,9200000002,demo.dev.doctor@example.com,Tue-Thu-Sat,850.00
+1,Dr. Neha Iyer,Cardiology,9200000003,demo.neha.doctor@example.com,Mon-Thu,950.00
+2,Dr. Kabir Shah,Neurology,9200000004,demo.kabir.doctor@example.com,Mon-Wed,1100.00
+2,Dr. Ritu Nair,Neurology,9200000005,demo.ritu.doctor@example.com,Tue-Fri,1000.00
+2,Dr. Omar Khan,Neurology,9200000006,demo.omar.doctor@example.com,Wed-Sat,1050.00
+3,Dr. Maya Joseph,Dermatology,9200000007,demo.maya.doctor@example.com,Mon-Fri,700.00
+3,Dr. Arvind Das,Dermatology,9200000008,demo.arvind.doctor@example.com,Tue-Thu,750.00
+3,Dr. Leena Paul,Dermatology,9200000009,demo.leena.doctor@example.com,Wed-Sat,725.00
+4,Dr. Hari Krishnan,Orthopedics,9200000010,demo.hari.doctor@example.com,Mon-Wed,950.00
+4,Dr. Pooja Rao,Orthopedics,9200000011,demo.pooja.doctor@example.com,Tue-Thu,900.00
+4,Dr. Sameer Ali,Orthopedics,9200000012,demo.sameer.doctor@example.com,Fri-Sat,925.00
+5,Dr. Isha Verma,Pediatrics,9200000013,demo.isha.doctor@example.com,Mon-Tue,650.00
+5,Dr. Nitin Babu,Pediatrics,9200000014,demo.nitin.doctor@example.com,Wed-Fri,625.00
+5,Dr. Alina George,Pediatrics,9200000015,demo.alina.doctor@example.com,Thu-Sat,675.00
